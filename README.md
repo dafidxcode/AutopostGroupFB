@@ -1,5 +1,7 @@
 # Auto Posting Facebook Group
-#Automation Facebook
+![Screenshot](Screenshot/Screenshot.png)
+
+# Automation Facebook
 Gunakan Script Ini Untuk Mengirim Postingan ke Semua Grup Facebook Anda Secara Otomatis, Cocok Digunakan Untuk Promosi, Iklan, Berbagi Informasi & Sebagainya. Script Ini Juga Aman Untuk Digunakan Pada Akun Utama Asal Tidak Berlebihan Menggunakannya.
 ### Perintah Termux :
     $ apt update -y && apt upgrade -y
